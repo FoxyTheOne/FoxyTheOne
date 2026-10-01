@@ -10,7 +10,7 @@
 - **RadioJourney** — радиостанции со всего мира на карте (мой дипломный проект, переделываю)
 
 ### Чем пользуюсь
-Kotlin · Jetpack Compose · Room · Hilt · Coroutines · Android Studio · Git
+Kotlin · Jetpack Compose · Room · Hilt · Coroutines · Android Studio · Git.
 Когда-то училась ещё и автотестам: Java, JUnit5, Selenium, Rest Assured.
 
 ☕ Поддержать: https://boosty.to/foxynest
