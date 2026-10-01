@@ -8,7 +8,6 @@
 ### Сейчас в работе
 - **Крок** — планер в стиле бумажного ежедневника (Kotlin, Jetpack Compose, Room)
 - **RadioJourney** — радиостанции со всего мира на карте (мой дипломный проект, переделываю)
-- **Приложение для родителей** — пока черновик
 
 ### Чем пользуюсь
 Kotlin · Jetpack Compose · Room · Hilt · Coroutines · Android Studio · Git
